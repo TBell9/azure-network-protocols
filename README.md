@@ -26,7 +26,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 <h2>High-Level Steps</h2>
 
 - Created a Resoure Group and a Windows 10 & a Linux Virtual Machine
-- Installed Wireshark on the Win 10 VM
+- Using RDP I installed Wireshark on the Win 10 VM
 - Observed ICMP traffic by using ping comand with the IP of the Linux VM
 - Observed SSH traffic
 - Observed DHCP traffic
