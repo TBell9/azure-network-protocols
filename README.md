@@ -44,7 +44,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <br />
 
 <p>
-<img src="https://imgur.com/yewFDfJ" height="80%" width="80%" alt="Windows & Linux VMs"/>
+<img src="https://imgur.com/yewFDfJ" height="80%" width="80%" alt="Windows & Linux VMs"/> <br />
 <img src="https://imgur.com/nyG1LnJ" height="80%" width="80%" alt="Windows & Linux VMs"/> 
 </p>
 <p>
